@@ -1,1 +1,5 @@
-# security-audits
+# Security Audits
+
+| Date           | Auditor           | Crates                                                                                               | Title                                                                 |
+| -------------- | ----------------  | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2024-06-05     | Symbolic Software | [`2pc-mpc`](https://github.com/dwallet-labs/2pc-mpc), [`group`](https://github.com/dwallet-labs/group), [`homomorphic-encryption`](https://github.com/dwallet-labs/homomorphic-encryption), [`proof`](https://github.com/dwallet-labs/proof), [`commitment`](https://github.com/dwallet-labs/commitment), [`maurer`](https://github.com/dwallet-labs/maurer), [`enhanced-maurer`](https://github.com/dwallet-labs/enhanced-maurer)     | [2PC-MPC in Rust](docs/dw-01.pdf)                                     |
