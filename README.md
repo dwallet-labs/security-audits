@@ -1,1 +1,5 @@
-# security-audits
+# Security Audits
+
+| Date           | Auditor           | Title                                                                                                |
+| -------------- | ----------------  | ---------------------------------------------------------------------------------------------------- |
+| 2024-06-05     | Symbolic Software | [2PC-MPC Rust Crate](docs/dw-01.pdf)                                                                 |
